@@ -1,2 +1,2 @@
-# image_processing_functions
+# image_processing_functions_MATLAB
 A collection of MATLAB functions for image processing purposes
